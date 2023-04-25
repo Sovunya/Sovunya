@@ -12,13 +12,17 @@
     <img src="https://img.shields.io/badge/Notion-grey?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Badge"/>
   </a>
   </div>
+  <div id="badges" align="center" display: inline;>
+  <a href="https://komarev.com/ghpvc/?username=Sovunya">
+    <img src="https://komarev.com/ghpvc/?username=Sovunya&style=flat-square&color=blue" alt=""/>
+  </a>
+  </div>
 <h1 align="center">
   Hello w0rld!!
   <img src="https://media4.giphy.com/media/PlEZr62TLXHrpm2clq/200w.webp" width="50px"/>
 </h1>
 
 ---
-
 
 <div align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTRkMTM2NDZlNTdmNjA4NWY5MDM4MDAxZTViMGFmNTUxZTdjYTIwNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/l49Fi5qJQ2SIfDoEU/giphy.gif" width="600px" height="250px"/>

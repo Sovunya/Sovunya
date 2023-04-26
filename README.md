@@ -8,7 +8,7 @@
   <a href="https://disk.yandex.ru/d/LJbaI14f7cS-KQ">
     <img src="https://img.shields.io/badge/YandexDisk-red?style=for-the-badge&logoColor=white" alt="YandexDisk Badge"/>
   </a>
-  <a href="https://www.notion.so/da621ee04a534c08a2dc407a11cbcbe2?pvs=4">
+  <a href="https://glass-tourmaline-a27.notion.site/da621ee04a534c08a2dc407a11cbcbe2">
     <img src="https://img.shields.io/badge/Notion-grey?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Badge"/>
   </a>
   </div>

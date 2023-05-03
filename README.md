@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media3.giphy.com/media/NjJjBTqrMODlLgeYqr/200w.webp" wildth="100"/>
+  <img src="https://media3.giphy.com/media/NjJjBTqrMODlLgeYqr/200w.webp"/>
  </div>
  <div id="badges" align="center">
   <a href="https://t.me/kompukternaya">
